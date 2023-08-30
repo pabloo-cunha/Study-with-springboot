@@ -1,0 +1,9 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_30_08_2023_14_18_[Changes]" date="1693415900520" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_08_2023_14_18_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 30/08/2023 14:18 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".mvn/wrapper/maven-wrapper.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_08_2023_14_18_[Changes]/maven-wrapper.jar" />
+  </binary>
+</changelist>
